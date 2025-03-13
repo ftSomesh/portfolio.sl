@@ -216,7 +216,7 @@ input:checked+label svg.moon {
     width: 4rem;
     height: 4rem;
     border-radius: 50%;
-    background-image: url(/images/back.jpg);
+    background-image: url(./images/back.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: bottom;

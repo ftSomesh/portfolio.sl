@@ -100,7 +100,9 @@ nav a {
 nav a, nav svg {
     transition: 0.5s ease;
 }
-
+nav svg {
+    fill: var(--text-color);
+}
 nav li:first-child {
     margin-right: auto;
 }
